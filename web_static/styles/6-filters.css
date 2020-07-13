@@ -71,6 +71,7 @@ li{
     padding-bottom: 10%;
 }
 ul{
+    list-style: none;
     padding-top: 30px;
 }
 .locations:hover > .popover{
